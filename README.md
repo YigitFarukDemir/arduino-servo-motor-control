@@ -1,4 +1,4 @@
-# arduino-selvo-motor-control
+# arduino-servo-motor-control
 
 **Project Report: Arduino Robot Hand Control**  
 
